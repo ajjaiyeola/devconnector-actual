@@ -1,5 +1,5 @@
 {
-    "mongoURI":"mongodb+srv://pankejay:S0JCPIs6sS28a5Oe@cluster0.fpwgm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongoURI":"mongodb+srv://<private>@cluster0.fpwgm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret":"ojuelegbacameleon"
 
 }
